@@ -1,0 +1,136 @@
+/*========================================================================
+*   Open eClass
+*   E-learning and Course Management System
+* ========================================================================
+*  Copyright(c) 2003-2020  Greek Universities Network - GUnet
+*  A full copyright notice can be read in "/info/copyright.txt".
+*
+*  Open eClass is an open platform distributed in the hope that it will
+*  be useful (without any warranty), under the terms of the GNU (General
+*  Public License) as published by the Free Software Foundation.
+*  The full license can be read in "/info/license/license_gpl.txt".
+*
+*  Contact address: 	GUnet Asynchronous eLearning Group,
+*  			Network Operations Center, University of Athens,
+*  			Panepistimiopolis Ilissia, 15784, Athens, Greece
+*  			eMail: info@openeclass.org
+* =========================================================================*/
+
+
+************************************************************************
+https://docs.openeclass.org/el/dream_team
+************************************************************************
+
+************************************************************************/
+Platform uses various 3rd party components such as:
+************************************************************************/
+
+Template Engine: Copyright 1999-2000 NetUSE GmbH Kristian Koehntopp
+
+Bootstrap Code licensed under MIT, documentation under CC BY 3.0.
+        http://getbootstrap.com
+
+Bootstrap Slider distributed under Apache License Version 2.0
+        https://github.com/seiyria/bootstrap-slider
+
+Bootstrap DataPicker distributed under Apache License, Version 2.0
+        Copyright 2012 Stefan Petre
+        https://github.com/eternicode/bootstrap-datepicker
+
+Bootstrap DateTimePicker distributed under Apache License, Version 2.0
+        Copyright 2012 Stefan Petre
+        http://www.malot.fr/bootstrap-datetimepicker
+
+Bootstrap distributed under Apache License Version 2.0
+        http://www.malot.fr/bootstrap-datetimepicker/
+
+Datatables distributed under MIT license
+        http://www.datatables.net
+
+Colorbox distributed under MIT license
+        http://www.jacklmoore.com/colorbox/
+
+C3 distributed under MIT license
+    Copyright (c) 2013 Masayuki Tanaka
+    http://c3js.org
+
+D3
+    Copyright (c) 2010-2015, Michael Bostock
+    http://d3js.org
+
+phpBB Copyright (c) 2001 The phpBB Group
+
+PEAR: Copyright (c) 1997-2004 The PHP Group
+
+phpSysInfo:
+  Copyright (c), 1999-2001, Uriah Welcome (precision@devrandom.net)
+  Copyright (c), 1999-2001, Matthew Snelham (infinite@valinux.com)
+
+JSCalendar: Copyright Mihai Bazon,
+  Distributed under the GNU Lesser General Public License.
+  http://www.dynarch.com/projects/calendar/old/
+
+POP3 class : Manuel Lemos (http://www.manuellemos.net)  <WebMaster@E-na.Net>
+
+Flot Javascript plotting library for jQuery: Copyright (c) 2007-2012 IOLA and Ole Laursen.
+Licensed under the MIT license.
+
+Wiki module: Frederic Minne <zefredz@gmail.com>
+class wiki2xhtml based on DotClear version 3.1d licensed under GPL
+Copyright (c) 2004 Olivier Meunier and contributors.
+  DotClear contributors: Stephanie Booth, Mathieu Pillard, Christophe Bonijol,
+  Jean-Charles Bagneris, Nicolas Chachereau, Jereme Lipowicz
+
+Learnpath module: Piraux Sebastien <pir@cerdecam.be>
+        Lederer Guillaume <led@cerdecam.be>
+
+PHP MathPublisher : Copyright (c) 2005 by Pascal Brachet <pbrachet@xm1math.net>
+  http://www.xm1math.net/phpmathpublisher/
+
+jQuery JavaScript Library - Copyright 2010, John Resig
+  Dual licensed under the MIT or GPL Version 2 licenses.
+  http://jquery.com/
+  Includes Sizzle.js - Copyright 2010, The Dojo Foundation
+  Released under the MIT, BSD, and GPL Licenses.
+  http://sizzlejs.com/
+
+jQuery UI - Copyright (c) 2010 (http://jqueryui.com/about)
+  Dual licensed under the MIT and GPL licenses.
+
+jQuery MultiSelect UI Widget 1.9, Copyright (c) 2011 Eric Hynds
+  Dual licensed under the MIT and GPL licenses.
+  http://www.erichynds.com/jquery/jquery-ui-multiselect-widget/
+
+Flowplayer Flash & Flowplayer HTML5
+Copyright 2008-2015 Flowplayer Oy
+The Flowplayer Free version is released under the
+GNU GENERAL PUBLIC LICENSE Version 3 (GPL).
+
+HTML Purify: (include/htmlpurifier-4.3.0-standalone)
+ Copyright (C) 2006-2008 Edward Z. Yang
+ Distributed under the GNU Lesser General Public (LGPL)
+ version 2.1 or later.
+ http://htmlpurifier.org/
+
+Tiny MCE Editor
+  Copyright © 2003-2011 Moxiecode Systems AB. All rights Reserved.
+  Licensed under LGPL
+  https://www.tiny.cloud
+
+PHP CAS Library - Copyright 2003 - 2010, The ESUP-Portail consortium & the JA-SIG Collaborative.
+  Licensed under the New BSD License, an OSI-certified ("open") and Gnu/FSF-recognized ("free") license
+  https://wiki.jasig.org/display/CASC/phpCAS
+
+SecureImage - Copyright 2009 Drew Phillips
+  Licenced under GPL
+  http://www.phpcaptcha.org Securimage PHP CAPTCHA
+  author Drew Phillips <drew@drew-phillips.com>
+  version 2.0.1 BETA (December 6th, 2009)
+
+Class HtmlCutString - Based on code provided by Prajwala  <m.prajwala@gmail.com>
+  Licenced under GPL
+  http://code.google.com/p/cut-html-string/
+
+trunk8 v1.3.3 - Copyright 2012 Rick Viscomi
+  Released under the MIT License.
+  https://github.com/rviscomi/trunk8

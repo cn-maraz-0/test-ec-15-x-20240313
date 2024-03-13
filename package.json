@@ -1,0 +1,12 @@
+{
+  "name": "open-eclass",
+  "version": "3.15",
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://www.openeclass.org/",
+  "dependencies": {
+    "h5p-standalone": "^3.5.1",
+    "mathjax": "3",
+    "recordrtc": "^5.6.2",
+    "video.js": "^7.18.1"
+  }
+}

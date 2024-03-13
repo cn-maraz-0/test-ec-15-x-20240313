@@ -1,0 +1,43 @@
+{
+    "require": {
+        "vlucas/valitron": "^1.4.2",
+        "jasig/phpcas": "<1.6",
+        "ezyang/htmlpurifier": "4.15",
+        "pragmarx/google2fa":"^8.0",
+        "swiftmailer/swiftmailer": "^5.4",
+        "sabre/dav": "~3.2.0",
+        "google/apiclient": "1.0.*@beta",
+        "guzzlehttp/guzzle": "^6.2",
+        "guzzlehttp/oauth-subscriber": "^0.3.0",
+        "hybridauth/hybridauth": "~3.0",
+        "mpdf/mpdf": "^8.0",
+        "hiqdev/hoa-ruler": "~1.0",
+        "hiqdev/hoa-file": "~1.0",
+        "egulias/email-validator": "^2.1",
+        "bacon/bacon-qr-code": "^2.0",
+        "phpoffice/phpspreadsheet": "^1.28",
+        "dapphp/securimage": "dev-mantis",
+        "h5p/h5p-core": "<1.25",
+        "h5p/h5p-editor": "<1.25",
+        "snapappointments/bootstrap-select": "^1.13.18",
+        "jenssegers/blade": "^1.4"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mantisbt/securimage",
+            "no-api": true
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "install\\Installer": ""
+        }
+    },
+    "scripts": {
+    "post-install-cmd": ["install\\Installer::ensureHtaccess"],
+    "post-update-cmd":  ["install\\Installer::ensureHtaccess"],
+    "post-package-install": ["install\\Installer::vendorTestCodeCleanup"],
+    "post-package-update": ["install\\Installer::vendorTestCodeCleanup"]
+  }
+}
